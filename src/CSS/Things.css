@@ -1,0 +1,29 @@
+.things-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.things-list {
+    font-family: Arial, sans-serif;
+}
+
+.things-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.things-list ul li {
+    margin-bottom: 10px;
+}
+
+.things-list ul li a {
+    color: #333;
+    text-decoration: none;
+}
+
+.things-list ul li a:hover {
+    text-decoration: underline;
+}

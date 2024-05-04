@@ -32,7 +32,7 @@ const Home = () => {
                         <li key={index}>{interest}</li>
                     ))}
                 </ul>
-                <button onClick={shuffleInterests}>Shuffle Interests</button>
+                <button className="clickButton" onClick={shuffleInterests}>Shuffle Interests</button>
             </div>
         </div>
     );

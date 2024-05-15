@@ -1,0 +1,13 @@
+/* Footer.css */
+
+.footer {
+    background-color: #FFC20A;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.footer-copyright {
+    font-size: 14px;
+    color: #666;
+    margin-top: 10px;
+}

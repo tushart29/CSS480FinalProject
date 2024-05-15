@@ -1,0 +1,27 @@
+.page-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.attention-catcher,
+.mid-section,
+.last-section {
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.scroll-container {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+.scroll-container img {
+    padding: 10px;
+    width: 300px;
+    height: auto;
+    margin: 10px;
+}
